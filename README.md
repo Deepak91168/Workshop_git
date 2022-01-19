@@ -1,8 +1,10 @@
 ## GIT/GIT-HUB WORKSHOP
 
 <hr>
-Do not jump Directly over Solution use the following hints and try to do it Yourself! 
+<li>
+Do not jump Directly over Solution use the following hints and try to do it Yourself!
 
+<li>You are required to make changes only in <strong>Test</strong> folder rest should be untouched.
 <hr>
 
 # Task
