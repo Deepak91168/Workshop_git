@@ -33,7 +33,7 @@ Do not jump Directly over Solution use the following hints and try to do it Your
 
     And now you are ready to commit the changes.
 
-    `git commit -m "<Any Message you want to write>"`
+    `git commit -m "<MyCommit_RollNo.>"`
 
 4. Push Changes into Your Branch.
 
