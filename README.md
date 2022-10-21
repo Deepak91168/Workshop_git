@@ -1,5 +1,5 @@
 ## GIT/GIT-HUB WORKSHOP
-
+Also Accepting Hcaktoberfest contributions
 <hr>
 <li>
 Do not jump Directly over Solution use the following hints and try to do it Yourself!
